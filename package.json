@@ -1,0 +1,22 @@
+{
+  "name": "vue-chat-room-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabelogumede/vue-chat-room-firebase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabelogumede/vue-chat-room-firebase/issues"
+  },
+  "homepage": "https://github.com/sabelogumede/vue-chat-room-firebase#readme",
+  "dependencies": {
+    "firebase": "^5.11.1"
+  }
+}
